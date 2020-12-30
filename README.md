@@ -1,2 +1,4 @@
 # hello-world
-my anme is anurag basu.
+my name  is Anurag basu.
+engineering student (2nd years)
+
